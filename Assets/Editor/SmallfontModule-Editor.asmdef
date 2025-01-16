@@ -1,0 +1,10 @@
+{
+  "name": "SmallfontModule-Editor",
+  "references": [
+    "SmallfontModule"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
