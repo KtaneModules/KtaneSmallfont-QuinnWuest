@@ -14,9 +14,8 @@ MonoBehaviour:
   id: SmallfontModule
   title: Smallfont
   author: Quinn Wuest
-  description: "font so small nobody know's im gay\n\nIdea by 1254\nDeveloped by Quinn
-    Wuest\n\n[url=https://ktane.timwi.de/HTML/Smallfont.html]Manual HTML[/url]\r\n[url=https://ktane.timwi.de/PDF/Smallfont.pdf]Manual
-    PDF[/url]"
+  description: "font so small...\n\nIdea by 1254\nDeveloped by Quinn Wuest\n\n[url=https://ktane.timwi.de/HTML/Smallfont.html]Manual
+    HTML[/url]\r\n[url=https://ktane.timwi.de/PDF/Smallfont.pdf]Manual PDF[/url]"
   version: 1.0
   outputFolder: build
   previewImage: {fileID: 2800000, guid: e7096cff28d9a544684433c92deaae06, type: 3}

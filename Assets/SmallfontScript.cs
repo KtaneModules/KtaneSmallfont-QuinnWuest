@@ -179,7 +179,7 @@ public class SmallfontScript : MonoBehaviour
         var elapsed = 0f;
         while (elapsed < duration)
         {
-            StatusLightObj.transform.localPosition = new Vector3(((i % 5) - 2) * 0.03f, Easing.InOutQuad(elapsed, -0.04f, 0.04f, duration), ((i / 5) - 2) * -0.03f);
+            StatusLightObj.transform.localPosition = new Vector3(((i % 5) - 2) * 0.03f, Easing.InOutQuad(elapsed, -0.05f, 0.04f, duration), ((i / 5) - 2) * -0.03f);
             yield return null;
             elapsed += Time.deltaTime;
         }
@@ -200,7 +200,7 @@ public class SmallfontScript : MonoBehaviour
         {
             waitTime = 0.4f;
             duration = 0.4f;
-            yPos = -0.04f;
+            yPos = -0.05f;
             Module.HandleStrike();
         }
         yield return new WaitForSeconds(waitTime);
