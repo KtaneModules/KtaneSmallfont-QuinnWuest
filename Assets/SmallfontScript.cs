@@ -71,7 +71,7 @@ public class SmallfontScript : MonoBehaviour
         new int[5] {7, 5, 5, 5, 5},
         new int[5] {2, 5, 5, 5, 2},
         new int[5] {6, 5, 6, 4, 4},
-        new int[5] {2, 5, 5, 7, 3},
+        new int[5] {2, 5, 5, 2, 1},
         new int[5] {6, 5, 6, 5, 5},
         new int[5] {3, 4, 2, 1, 6},
         new int[5] {7, 2, 2, 2, 2},
